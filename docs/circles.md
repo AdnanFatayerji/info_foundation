@@ -27,7 +27,9 @@ Items with @ are public
    - [news @](https://chat.grid.tf/tftokens/channels/town-square)
    - [chat @](https://chat.grid.tf/tftokens/channels/chat) : public chat about anything
 - [Trello: https://trello.com/threefoldtoken](https://trello.com/threefoldtoken)
-    - tbd: adnan
+    - [website roadmap @] (https://trello.com/b/6EvzB47K/tftokenwebsiteroadmap)
+    - [business development](https://trello.com/b/PQXC3FHZ/tftokensalesfunnel)
+    - [tf_token_promotion] (https://trello.com/b/IqHW5DeD/tftokenpromotion)
 - [google drive home](https://drive.google.com/drive/folders/1_9XS7b_4aVWZ95nDdwIS_nEnkQxjKrnw)
     - [home page](https://docs.google.com/document/d/1SpZmeAgzeNxDPJTLnShd-NkkOREuJf0ItRHJCuDxE7Q/edit)
 - [wiki](https://github.com/threefoldfoundation/info_tokens)
