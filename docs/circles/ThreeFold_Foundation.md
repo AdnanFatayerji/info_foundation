@@ -31,7 +31,15 @@ Use the foundation wiki to make sure everyone can understand how we will work to
 - every ambassador+ needs to have such a contributor page in relevant wiki
 - need to add this list . : TODO:*1 
 
-## links
+## circle links
+
+- tf_token
+- tf_fund
+- tf_foundation
+- tf_grid
+- tf_incubtor
+_ tf_tech
+
 
 ### chat
 
